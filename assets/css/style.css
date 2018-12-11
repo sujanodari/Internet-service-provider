@@ -1,0 +1,50 @@
+h1,h2
+{
+	text-align:center;
+	
+}
+body {
+    padding: 20px;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #f7f7f7;
+}
+.lib-panel {
+    margin-bottom: 20Px;
+}
+.lib-panel img {
+    background-color: transparent;
+	
+}
+.clear{
+	clear:both;
+}
+
+.lib-panel .lib-row.lib-desc {
+    position: relative;
+	text-align:center;
+    display: block;
+    font-size: 13px;
+}
+.lib-panel .lib-row.lib-desc a{
+    position: absolute;
+    bottom: 10px;
+    left: 20px;
+}
+h4
+{
+	text-align:center;
+	color:red;
+	
+}
+.row-margin-bottom {
+    margin-bottom: 20px;
+}
+
+.box-shadow {
+    -webkit-box-shadow: 0 0 10px 0 rgba(0,0,0,.10);
+    box-shadow: 0 0 10px 0 rgba(0,0,0,.10);
+}
+
+.no-padding {
+    padding: 0;
+}
